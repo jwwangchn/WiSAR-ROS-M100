@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=flir_vue_read_cam

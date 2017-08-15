@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/kelfor/Documents/flir-vue-pro/src/flir_vue_read_cam/cmake-build-debug/gtest/src -lpthread -Wl,-rpath,/home/kelfor/Documents/flir-vue-pro/src/flir_vue_read_cam/cmake-build-debug/gtest/src 
